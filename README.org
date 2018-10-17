@@ -1,0 +1,13 @@
+* Kryptologie
+
+** Links
+  
+   [[https://www.fh-aachen.de/menschen/hoever/lehrveranstaltungen/kryptologie/][Veranstaltung]]
+   - [[https://www.fh-aachen.de/menschen/hoever/lehrveranstaltungen/kryptologie/krypto-raetsel/][Krypto Raetsel]]
+   - [[http://www.hoever-downloads.fh-aachen.de/krypto/KryptoSkript.pdf][Skript]]
+   - [[https://www.fh-aachen.de/menschen/hoever/lehrveranstaltungen/kryptologie/vortragsfolien-und-zusammenfassung/][Vortraege]]
+     - User: "krypto", PW: "fh-aachen"
+
+** Zeit
+
+Wed 14:00 - 17:15
