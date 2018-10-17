@@ -5,9 +5,58 @@
    [[https://www.fh-aachen.de/menschen/hoever/lehrveranstaltungen/kryptologie/][Veranstaltung]]
    - [[https://www.fh-aachen.de/menschen/hoever/lehrveranstaltungen/kryptologie/krypto-raetsel/][Krypto Raetsel]]
    - [[http://www.hoever-downloads.fh-aachen.de/krypto/KryptoSkript.pdf][Skript]]
+   - [[http://www.hoever-downloads.fh-aachen.de/krypto/Referate.pdf][Referat Zeitplan]]
    - [[https://www.fh-aachen.de/menschen/hoever/lehrveranstaltungen/kryptologie/vortragsfolien-und-zusammenfassung/][Vortraege]]
      - User: "krypto", PW: "fh-aachen"
 
 ** Zeit
 
 Wed 14:00 - 17:15
+
+** Vortraege
+
+*** <2018-10-10 Wed> Einfache Verschluesselungsverfahren
+
+*** <2018-10-10 Wed>Vigenere Verschluesselung
+
+*** <2018-10-17 Wed> Steganografie
+
+*** <2018-10-17 Wed> Perfekte Sicherheit
+
+*** <2018-10-24 Wed> Verschluesselung im ersten Weltkrieg
+
+*** <2018-10-24 Wed> Enigma
+
+*** <2018-10-31 Wed> Lorenz Chiffre und Colossus
+
+*** <2018-11-07 Wed> DES
+
+*** <2018-11-14 Wed> AES
+
+*** <2018-11-14 Wed> Betriebsmodi von Blockchiffren
+
+*** <2018-11-21 Wed> (Pseudo-)Zufall
+
+*** <2018-11-21 Wed> Lineare Schiebregister
+    
+*** <2018-11-28 Wed> Kryptografie im Mobilfunk
+
+*** <2018-12-12 Wed> WLAN-Verschluesselung
+
+*** <2018-12-12 Wed> SHA-1
+
+*** <2018-12-19 Wed> Kerberos
+
+*** SSL
+
+*** Rechtverbindliche Unterschrift
+
+*** PGP
+
+*** Bitcoins
+
+*** Politische Randbedingungen 
+
+*** Physikalische Angriffe
+
+*** Quantenkryptografie
