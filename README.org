@@ -17,7 +17,7 @@ Wed 14:00 - 17:15
 
 *** <2018-10-10 Wed> Einfache Verschluesselungsverfahren
 
-*** <2018-10-10 Wed>Vigenere Verschluesselung
+*** <2018-10-10 Wed> Vigenere Verschluesselung
 
 *** <2018-10-17 Wed> Steganografie
 
@@ -47,16 +47,16 @@ Wed 14:00 - 17:15
 
 *** <2018-12-19 Wed> Kerberos
 
-*** SSL
+*** <2018-12-19 Wed> SSL
 
-*** Rechtverbindliche Unterschrift
+*** <2019-01-09 Wed> Rechtverbindliche Unterschrift
 
-*** PGP
+*** <2019-01-09 Wed> PGP
 
-*** Bitcoins
+*** <2019-01-16 Wed> Bitcoins
 
-*** Politische Randbedingungen 
+*** <2019-01-16 Wed> Politische Randbedingungen 
 
-*** Physikalische Angriffe
+*** <2019-01-23 Wed> Physikalische Angriffe
 
-*** Quantenkryptografie
+*** <2019-01-23 Wed> Quantenkryptografie
