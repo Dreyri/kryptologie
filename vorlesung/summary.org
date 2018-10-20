@@ -1,0 +1,46 @@
+* Zusammenfassung
+
+  Wiederholungen die ich hinschreibe fuer Vorbereitung auf der Klausur oder bei Uebungen
+
+** Gruppen
+   
+*** Definition
+
+    Eine Menge G mit einer Verknuepfung o : G x G -> G heisst eine Gruppe genau dann,
+    wenn gilt
+
+    1. Die Verknuepfung ist assoziativ.
+    2. Es Gibt ein neutrales Element n Element von G.
+    3. Zu jedem Element gibt es ein Inverse.
+
+    G heisst kommutative Gruppe genau dann, wenn die Verknuepfung zusaetzlich kommutativ ist, d.h.
+    fuer alle a, b element von G: a verknuepft mit b = b verknuepft mit a.
+
+   
+* Saetze
+
+** Satz 1.1
+   
+   Seite 4.
+
+   Ist a_{1} = a_{2} mod m und b_{1} = b_{2} mod m, so gilt
+   a_{1} + b_{1} = a_{2} + b_{2} mod m und a_{1} * b_{1} = a_{2} * b_{2} mod m
+   
+*** Beispiel
+    
+    Es ist
+    17 * 14 = 238 = 4 mod 6 und ((-1) * 8) = -8 = 4 mod 6.
+    also 17 * 14 = ((-1) * 8) mod 6.
+    
+*** Beweis fuer "+"
+
+    Es gibt k,l mit a_{1} = a_{2} + k * m, b_{1} = b_{2} + l * m.
+    => a_{1} + b_{1} = a_{2} + k * m + b_{2} + l * m = a_{2} + b_{2} + (k + l) * m.
+   
+** Satz 1.2
+
+   Seite 6.
+   
+** Satz 1.3
+
+   Seite 7.
